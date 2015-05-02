@@ -1,2 +1,2 @@
-# infog
-Original site built for Infogentsia
+project-info0614
+================
